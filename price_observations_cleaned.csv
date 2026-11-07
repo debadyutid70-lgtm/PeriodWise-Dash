@@ -1,0 +1,140 @@
+Price_Observation_ID,Product_ID,Retailer,MRP,Selling_Price,Discount_Percent,Price_Per_Unit,Currency,Source_URL,Date_Collected,Unit_Count
+PO001,P001,Netmeds,130.0,106.6,18.0,5.92,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,18
+PO002,P002,Netmeds,89.0,69.42,22.0,3.86,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,18
+PO003,P003,Netmeds,45.0,42.3,6.0,7.05,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,6
+PO004,P004,Netmeds,30.0,24.0,20.0,4.0,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,6
+PO005,P005,Netmeds,50.0,47.45,5.1,7.91,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,6
+PO006,P006,Netmeds,119.0,92.82,22.0,6.19,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,15
+PO007,P007,Netmeds,180.0,140.4,22.0,15.6,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,9
+PO008,P008,Netmeds,38.0,30.4,20.0,5.07,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,6
+PO009,P009,Netmeds,285.0,259.35,9.0,9.26,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,28
+PO010,P010,Netmeds,95.0,89.21,6.09,12.74,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,7
+PO011,P011,Netmeds,70.0,59.5,15.0,8.5,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,7
+PO012,P012,Netmeds,123.0,116.85,5.0,6.49,INR,https://www.netmeds.com/brand/netmeds?availabilitystatus=A&categorynamelevel2=Feminine+Hygiene&country_of_origin=India&flexiattribute4=sub&itemtype=PADS&itemtype=Pad&itemtype=MENSTRUAL+CUP,2026-09-25,18
+PO013,P013,Tata 1mg,149.0,102.0,31.54,6.38,INR,https://www.1mg.com/otc/nua-everyday-comfort-panty-liners-long-otc1159232,2026-09-25,16
+PO014,P014,Tata 1mg,249.0,207.0,16.87,20.7,INR,https://www.1mg.com/otc/nua-all-night-comfort-sanitary-pads-with-disposal-covers-xxl-otc1159202,2026-09-25,10
+PO015,P015,Tata 1mg,240.0,175.0,27.08,2.92,INR,https://www.1mg.com/otc/i-activ.-daily-panty-liners-otc1112365,2026-09-25,60
+PO016,P016,Tata 1mg,660.0,561.0,15.0,13.36,INR,https://www.1mg.com/otc/stayfree-dry-max-all-night-ultra-dry-otc904961,2026-09-25,42
+PO017,P011,Tata 1mg,70.0,63.0,10.0,9.0,INR,https://www.1mg.com/otc/sofy-anti-bacteria-sanitary-pads-xl-otc691628,2026-09-25,7
+PO018,P017,Tata 1mg,498.0,349.0,29.92,4.3625,INR,https://www.1mg.com/otc/anandi-100-organic-cotton-panty-liners-for-women-190mm-40-each-otc893189,2026-09-25,80
+PO019,P018,Tata 1mg,220.0,198.0,10.0,39.6,INR,https://www.1mg.com/otc/evereve-snug-fit-overnight-period-panties-l-xl-buy-1-get-1-free-otc1150997,2026-09-25,5
+PO020,P019,Tata 1mg,689.0,585.0,15.09,585.0,INR,https://www.1mg.com/otc/donna-organic-menstrual-cup-large-otc1167443,2026-09-25,1
+PO021,P020,Tata 1mg,449.0,404.0,10.02,16.16,INR,https://www.1mg.com/otc/plush-ultra-thin-pure-u.s-cotton-sanitary-pads-25xxl-4-panty-liners-otc1138730,2026-09-25,25
+PO022,P021,Tata 1mg,938.0,891.0,5.01,445.5,INR,https://www.1mg.com/otc/aarya-medical-grade-silicone-reusable-menstrual-cup-medium-otc929641,2026-09-25,2
+PO023,P022,Tata 1mg,800.0,720.0,10.0,36.0,INR,https://www.1mg.com/otc/whisper-bindazzz-nights-pads-size-xxxl-otc625469,2026-09-25,20
+PO024,P023,Tata 1mg,83.0,78.9,4.94,6.58,INR,https://www.1mg.com/otc/stayfree-secure-cottony-soft-with-wings-pads-xl-otc774677,2026-09-25,12
+PO025,P024,Tata 1mg,468.0,421.0,10.04,421.0,INR,https://www.1mg.com/otc/bbold-menstrual-cups-for-women-black-small-otc975100,2026-09-25,1
+PO026,P025,Tata 1mg,225.0,214.0,4.89,42.8,INR,https://www.1mg.com/otc/sirona-disposable-period-panty-l-xl-otc788637,2026-09-25,5
+PO027,P026,Tata 1mg,500.0,299.0,40.2,299.0,INR,https://www.1mg.com/otc/imasafe-reusable-menstrual-cup-red-small-otc699083,2026-09-25,1
+PO028,P027,Tata 1mg,720.0,648.0,10.0,40.5,INR,https://www.1mg.com/otc/sirona-premium-applicator-super-plus-heavy-flow-tampons-otc330641,2026-09-25,16
+PO029,P028,Tata 1mg,999.0,949.0,5.01,31.63,INR,https://www.1mg.com/otc/hi-life-flow-easy-organic-pad-with-honeycomb-leaklock-otc947376,2026-09-25,30
+PO030,P029,Tata 1mg,550.0,528.0,4.0,528.0,INR,https://www.1mg.com/otc/the-woman-s-company-red-small-menstrual-cup-otc604033,2026-09-25,1
+PO031,P030,Tata 1mg,1499.0,949.0,36.69,949.0,INR,https://www.1mg.com/otc/nushu-cheeky-lace-panty-black-large-otc973477,2026-09-25,1
+PO032,P031,Tata 1mg,1299.0,799.0,38.49,799.0,INR,https://www.1mg.com/otc/nushu-bikini-brief-menstrual-panty-large-black-otc973430,2026-09-25,1
+PO033,P032,Tata 1mg,599.0,497.0,17.03,16.57,INR,https://www.1mg.com/otc/be-me-organic-sanitary-pads-with-disposal-pouches-regular-moderate-heavy-flow-otc853301,2026-09-25,30
+PO034,P033,Tata 1mg,1198.0,707.0,40.98,11.783333333333333,INR,https://www.1mg.com/otc/be-me-organic-sanitary-pads-30-each-regular-moderate-heavy-flow-otc853316,2026-09-25,60
+PO035,P034,Tata 1mg,110.0,99.0,10.0,5.5,INR,https://www.1mg.com/otc/amrutanjan-comfy-snug-fit-sanitary-pads-dry-xl-otc872831,2026-09-25,18
+PO036,P035,Tata 1mg,150.0,135.0,10.0,33.75,INR,https://www.1mg.com/otc/whisper-bindazzz-nights-pads-size-xxxl-otc625456,2026-09-25,4
+PO037,P036,Tata 1mg,1549.0,989.0,36.15,989.0,INR,https://www.1mg.com/otc/nushu-lace-bikini-panty-black-xl-otc973745,2026-09-25,1
+PO038,P037,Tata 1mg,562.0,533.0,5.16,533.0,INR,https://www.1mg.com/otc/lady-go-re-usable-menstrual-cup-large-standard-model-otc506755,2026-09-25,1
+PO039,P038,Tata 1mg,289.0,260.0,10.03,6.5,INR,https://www.1mg.com/otc/everteen-period-care-soft-top-layer-sanitary-pads-40-each-otc908988,2026-09-25,40
+PO040,P039,Tata 1mg,1198.0,958.0,20.03,15.966666666666667,INR,https://www.1mg.com/otc/be-me-combo-pack-of-organic-sanitary-pads-with-disposal-pouches-30-each-moderate-heavy-flow-large-otc779016,2026-09-25,60
+PO041,P040,Tata 1mg,249.0,187.0,24.9,15.58,INR,https://www.1mg.com/otc/be-me-organic-sanitary-pads-with-disposal-pouches-regular-moderate-heavy-flow-otc853292,2026-09-25,12
+PO042,P041,Tata 1mg,60.0,49.2,18.0,6.15,INR,https://www.1mg.com/otc/wonderize-dry-comfort-xl-sanitary-pads-otc860405,2026-09-25,8
+PO043,P042,Tata 1mg,129.0,123.0,4.65,6.15,INR,https://www.1mg.com/otc/plush-100-u.s-pure-cotton-daily-panty-liner-otc785980,2026-09-25,20
+PO044,P043,Tata 1mg,470.0,400.0,14.89,13.33,INR,https://www.1mg.com/otc/whisper-bindazzz-nights-pads-size-xxl-heavy-flow-otc625466,2026-09-25,30
+PO045,P044,Tata 1mg,1299.0,799.0,38.49,799.0,INR,https://www.1mg.com/otc/nushu-bikini-brief-menstrual-panty-xl-black-otc973431,2026-09-25,1
+PO046,P045,Tata 1mg,1198.0,639.0,46.66,10.65,INR,https://www.1mg.com/otc/be-me-combo-pack-of-organic-sanitary-pads-with-disposable-pouches-large-extra-large-30-each-otc779020,2026-09-25,60
+PO047,P046,Tata 1mg,499.0,474.0,5.01,474.0,INR,https://www.1mg.com/otc/securteen-menstrual-cup-large-otc551085,2026-09-25,1
+PO048,P047,Tata 1mg,327.0,294.0,10.09,294.0,INR,https://www.1mg.com/otc/pee-safe-reusable-menstrual-cup-with-medical-grade-silicone-for-women-large-otc543767,2026-09-25,1
+PO049,P048,Tata 1mg,349.0,314.0,10.03,19.62,INR,https://www.1mg.com/otc/pee-safe-100-organic-cotton-biodegradable-tampons-super-plus-otc543682,2026-09-25,16
+PO050,P049,BigBasket,299.0,251.16,16.0,12.56,INR,https://www.bigbasket.com/pd/280256/ob-tampons-for-average-flow-20-pcs/,2026-09-25,20
+PO051,P050,BigBasket,499.0,249.0,50.1,249.0,INR,https://www.bigbasket.com/pd/40339231/namyaa-ultra-soft-reusable-menstrual-cup-medium-pink-1-pc/,2026-09-25,1
+PO052,P051,BigBasket,,899.0,,899.0,INR,https://www.bigbasket.com/pd/40175099/mjoy-premium-hygienic-small-period-cup-reusable-washable-before-delivery-or-upto-25-years-1-pc/,2026-09-25,1
+PO053,P052,BigBasket,220.0,199.0,9.55,16.58,INR,https://www.bigbasket.com/pd/40367282/nua-easefit-zero-irritation-tampons-for-heavy-flow-12-pcs/,2026-09-25,12
+PO054,P053,BigBasket,327.0,279.0,14.68,279.0,INR,https://www.bigbasket.com/pd/40370958/pee-safe-reusable-menstrual-cup-medium-1-pc/,2026-09-25,1
+PO055,P054,BigBasket,,945.0,,945.0,INR,https://www.bigbasket.com/pd/40127726/stonesoup-menstrual-cup-wings-tough-23-ml/,2026-09-25,1
+PO056,P055,BigBasket,,149.0,,18.62,INR,https://www.bigbasket.com/pd/40292594/lemmebe-light-flow-mini-tampons-100-cotton-certified-biodegradable-8-pcs/,2026-09-25,8
+PO057,P056,BigBasket,,1110.0,,1110.0,INR,https://www.bigbasket.com/pd/40248234/lemmebe-z-menstrual-cup-with-pouch-small-size-8-hour-protection-long-lasting-for-periods-care-comfort-1-pc/,2026-09-25,1
+PO058,P057,BigBasket,,899.0,,899.0,INR,https://www.bigbasket.com/pd/40175100/mjoy-premium-hygienic-large-period-cup-reusable-washable-after-delivery-or-above-25-years-1-pc/,2026-09-25,1
+PO059,P058,BigBasket,,399.0,,399.0,INR,https://www.bigbasket.com/pd/40260570/bombae-bsc-women-reusable-menstrual-cup-medium-size-20g/,2026-09-25,1
+PO060,P059,BigBasket,,550.0,,550.0,INR,https://www.bigbasket.com/pd/40210724/carmesi-reusable-menstrual-cup-medium-1-pc/,2026-09-25,1
+PO061,P060,BigBasket,349.0,209.4,40.0,209.4,INR,https://www.bigbasket.com/pd/40347579/cupid-cupisafe-reusable-menstrual-cup-s-1-pc/,2026-09-25,1
+PO062,P061,BigBasket,,99.0,,16.5,INR,https://www.bigbasket.com/pd/40365934/pee-safe-100-organic-biodegradable-cotton-tampons-trial-pack-6-pcs/,2026-09-25,6
+PO063,P062,BigBasket,,295.0,,14.75,INR,https://www.bigbasket.com/pd/40125228/sirona-premium-digital-tampon-medium-flow-fda-approved-20-pcs/,2026-09-25,20
+PO064,P063,BigBasket,149.0,128.0,14.09,8.0,INR,https://www.bigbasket.com/pd/40005540/bella-tampons-mini-16-pcs-carton/,2026-09-25,16
+PO065,P064,BigBasket,199.0,175.0,12.06,10.94,INR,https://www.bigbasket.com/pd/40005544/bella-tampons-easy-twist-super-16-pcs-carton/,2026-09-25,16
+PO066,P065,BigBasket,,179.0,,17.9,INR,https://www.bigbasket.com/pd/40075456/sofy-soft-tampons-regular-10-pcs/,2026-09-25,10
+PO067,P066,BigBasket,449.0,402.87,10.27,25.18,INR,https://www.bigbasket.com/pd/40103445/sirona-premium-applicator-tampons-heavy-flow-16-pcs/,2026-09-25,16
+PO068,P067,BigBasket,320.0,249.0,22.19,15.56,INR,https://www.bigbasket.com/pd/40198575/peesafe-100-organic-cotton-biodegradable-tampons-super-16-pcs/,2026-09-25,16
+PO069,P068,BigBasket,249.0,222.0,10.84,13.88,INR,https://www.bigbasket.com/pd/40005546/bella-tampons-easy-twist-super-plus-16-pcs-carton/,2026-09-25,16
+PO070,P069,BigBasket,,549.0,,549.0,INR,https://www.bigbasket.com/pd/40175098/ezy-large-period-cup-for-medium-or-heavy-flow-post-child-birth-above-25-years-1-pc/,2026-09-25,1
+PO071,P070,BigBasket,,499.0,,499.0,INR,https://www.bigbasket.com/pd/40120780/icare-menstrual-cup-hygienic-after-delivery-above-age-25-years-size-l-large-35-g/,2026-09-25,1
+PO072,P071,BigBasket,,499.0,,499.0,INR,https://www.bigbasket.com/pd/40120779/icare-menstrual-cup-hygienic-before-delivery-upto-age-25-years-size-ssmall-35-g/,2026-09-25,1
+PO073,P072,BigBasket,189.0,166.0,12.17,10.38,INR,https://www.bigbasket.com/pd/40005542/bella-tampons-easy-twist-regular-16-pcs-carton/,2026-09-25,16
+PO074,P073,BigBasket,269.0,246.34,8.42,12.32,INR,https://www.bigbasket.com/pd/40125229/sirona-premium-digital-tampon-heavy-flow-fda-approved-20-pcs/,2026-09-25,20
+PO075,P074,BigBasket,279.0,229.0,17.92,14.31,INR,https://www.bigbasket.com/pd/40198574/peesafe-100-organic-cotton-biodegradable-tampons-regular-16-pcs/,2026-09-25,16
+PO076,P075,BigBasket,,499.0,,499.0,INR,https://www.bigbasket.com/pd/40202389/sirona-pro-super-soft-reusable-fda-approved-menstrual-cup-with-medical-grade-silicon-medium-1-pc/,2026-09-25,1
+PO077,P076,BigBasket,349.0,271.18,22.3,271.18,INR,https://www.bigbasket.com/pd/40118724/sirona-reusable-menstrual-cup-with-medical-grade-silicone-large-fda-approved-1-pc/,2026-09-25,1
+PO078,P077,BigBasket,499.0,249.0,50.1,249.0,INR,https://www.bigbasket.com/pd/40224627/namyaa-ultra-soft-menstrual-cup-reusable-large-50-g/,2026-09-25,1
+PO079,P078,BigBasket,,260.0,,16.25,INR,https://www.bigbasket.com/pd/40344683/nua-easefit-tampons-heavy-flow-16-pcs/,2026-09-25,16
+PO080,P079,BigBasket,,699.0,,699.0,INR,https://www.bigbasket.com/pd/40120778/intimus-menstrual-cup-size-large-above-25-years-of-age-or-after-childbirth-35-g/,2026-09-25,1
+PO081,P080,BigBasket,,699.0,,699.0,INR,https://www.bigbasket.com/pd/40120777/intimus-menstrual-cup-size-small-up-to-age-of-25-years-or-before-childbirth-35-g/,2026-09-25,1
+PO082,P081,BigBasket,,1499.0,,1499.0,INR,https://www.bigbasket.com/pd/40205114/meneza-menstrual-cup-small-size-for-women-above-30-years-of-age-or-who-have-given-birth-1-pc/,2026-09-25,1
+PO083,P082,BigBasket,,549.0,,549.0,INR,https://www.bigbasket.com/pd/40175097/ezy-small-period-cup-for-medium-flow-pre-child-birth-upto-25-years-1-pc/,2026-09-25,1
+PO084,P083,BigBasket,,399.0,,399.0,INR,https://www.bigbasket.com/pd/40260571/bombae-bsc-women-reusable-menstrual-cup-large-size-24g/,2026-09-25,1
+PO085,P084,BigBasket,,748.0,,748.0,INR,https://www.bigbasket.com/pd/40260569/bombae-bsc-women-reusable-menstrual-cup-sterilizer-container-medium-size-77g/,2026-09-25,1
+PO086,P085,BigBasket,,299.0,,29.9,INR,https://www.bigbasket.com/pd/40272449/sanity-applicator-tampons-easy-absorbent-hygienic-easy-to-use-10-pcs/,2026-09-25,10
+PO087,P086,BigBasket,,598.0,,59.8,INR,https://www.bigbasket.com/pd/40273198/sanity-regular-super-applicator-tampons-avoids-leakages-stains-super-absorbent-20-pcs-tin/,2026-09-25,10
+PO088,P087,BigBasket,,561.0,,561.0,INR,https://www.bigbasket.com/pd/40358562/velvet-menstrual-cup-medium-1-pc/,2026-09-25,1
+PO089,P048,BigBasket,349.0,279.0,20.06,17.44,INR,https://www.bigbasket.com/pd/40296783/pee-safe-tampons-100-organic-cotton-biodegradable-super-plus-size-16-pcs/,2026-09-25,16
+PO090,P088,BigBasket,327.0,279.0,14.68,279.0,INR,https://www.bigbasket.com/pd/40198579/peesafe-reusable-menstrual-cups-small-1-pc/,2026-09-25,1
+PO091,P089,BigBasket,,945.0,,945.0,INR,https://www.bigbasket.com/pd/40127727/stonesoup-menstrual-cup-wings-fuschia-23-ml/,2026-09-25,1
+PO092,P090,BigBasket,,489.0,,489.0,INR,https://www.bigbasket.com/pd/40127728/stonesoup-menstrual-cup-wings-pratham-15-ml/,2026-09-25,1
+PO093,P091,BigBasket,,299.0,,29.9,INR,https://www.bigbasket.com/pd/40266932/sanity-sanity-super-applicator-tampons-heavy-flow-no-fear-of-leak-1-pc/,2026-09-25,10
+PO094,P092,BigBasket,749.0,454.0,39.39,9.08,INR,https://www.bigbasket.com/pd/40195476/whisper-ultra-clean-sanitary-pads-xl-plus-locks-wetness-odour-50-pcs/,2026-09-25,50
+PO095,P093,BigBasket,800.0,472.0,41.0,23.6,INR,https://www.bigbasket.com/pd/40186837/whisper-bindazzz-nights-sanitary-pads-double-huge-wings-wider-back-xxxl-20-pcs/,2026-09-25,20
+PO096,P094,BigBasket,699.0,440.37,37.0,8.81,INR,https://www.bigbasket.com/pd/40111912/whisper-ultra-soft-air-fresh-sanitary-pads-with-wider-longer-back-xl-50-pcs/,2026-09-25,50
+PO097,P095,BigBasket,350.0,215.0,38.57,5.38,INR,https://www.bigbasket.com/pd/40220103/stayfree-secure-nights-sanitary-pad-with-cottony-soft-comfort-back-leak-guard-40-pcs/,2026-09-25,40
+PO098,P012,BigBasket,123.0,116.85,5.0,6.49,INR,https://www.bigbasket.com/pd/40054349/stayfree-secure-xl-cottony-soft-sanitary-pads-for-women-with-wings-20-pcs/,2026-09-25,18
+PO099,P096,BigBasket,105.0,97.65,7.0,5.43,INR,https://www.bigbasket.com/pd/299671/stayfree-secure-cottony-soft-sanitary-pads-for-women-with-wings-20-pcs/,2026-09-25,18
+PO100,P097,BigBasket,320.0,240.0,25.0,6.0,INR,https://www.bigbasket.com/pd/40252519/whisper-choice-ultra-sanitary-pads-for-women-x-large-napkins-100-protection-with-disposal-bags-40-pcs/,2026-09-25,40
+PO101,P098,BigBasket,335.0,211.05,37.0,5.28,INR,https://www.bigbasket.com/pd/40333740/whisper-choice-night-sanitary-pads-up-to-100-stain-protection-xxl-40-pcs/,2026-09-25,40
+PO102,P099,BigBasket,849.0,526.38,38.0,10.53,INR,https://www.bigbasket.com/pd/40191532/whisper-bindazzz-nights-sanitary-pads-double-huge-wings-wider-back-xl-plus-44-pcs/,2026-09-25,50
+PO103,P100,BigBasket,399.0,339.15,15.0,7.07,INR,https://www.bigbasket.com/pd/40075461/sofy-anti-bacteria-sanitary-pad-extra-long-prevents-leakage-slim-48-pcs/,2026-09-25,48
+PO104,P101,BigBasket,699.0,503.28,28.0,8.39,INR,https://www.bigbasket.com/pd/40159633/whisper-ultra-clean-sanitary-pads-for-women-xl-60-pcs/,2026-09-25,60
+PO105,P102,BigBasket,429.0,389.0,9.32,12.97,INR,https://www.bigbasket.com/pd/40297837/nua-ultra-thin-leakproof-pads-highly-absorbent-rash-free-assorted-pack-30-pcs/,2026-09-25,30
+PO106,P103,BigBasket,449.0,369.0,17.82,12.3,INR,https://www.bigbasket.com/pd/40248575/nua-detoxifying-clay-mask-2-salicylic-acid-with-kaolin-clay-activated-charcoal-niacinamide-unclogs-pores-purifies-skin-60-g/,2026-09-25,30
+PO107,P104,BigBasket,,179.0,,14.92,INR,https://www.bigbasket.com/pd/900458062/nua-sanitary-pad-medium-flow-xl-mini-saver-pack-12-pcs-pouch/,2026-09-25,12
+PO108,P105,BigBasket,489.0,440.1,10.0,14.67,INR,https://www.bigbasket.com/pd/40233316/plush-sanitary-pad-with-disposable-pouches-panty-liners-100-pure-cotton-l-xl-30-pcs/,2026-09-25,30
+PO109,P106,BigBasket,957.0,567.0,40.75,31.5,INR,https://www.bigbasket.com/pd/40352313/whisper-super-absorbent-period-panties-l-xl-18-pcs/,2026-09-25,18
+PO110,P107,BigBasket,,225.0,,15.0,INR,https://www.bigbasket.com/pd/30003871/whisper-maxi-fit-large-wings-15-pads/,2026-09-25,15
+PO111,P108,BigBasket,185.0,131.35,29.0,8.76,INR,https://www.bigbasket.com/pd/222783/whisper-sanitary-pads-xl-wings-ultra-clean-15-pcs/,2026-09-25,15
+PO112,P109,BigBasket,273.0,232.0,15.02,5.8,INR,https://www.bigbasket.com/pd/40137730/stayfree-secure-cottony-xl-sanitary-pads-for-women-40-pcs/,2026-09-25,40
+PO113,P110,BigBasket,,108.0,,15.43,INR,https://www.bigbasket.com/pd/20004160/stayfree-sanitary-pads-advanced-all-nights-soft-ultra-thin-xl-with-wings-7-pads/,2026-09-25,7
+PO114,P111,BigBasket,470.0,399.5,15.0,9.08,INR,https://www.bigbasket.com/pd/40172075/sofy-sanitary-pads-anti-bacteria-super-xl-44-pcs/,2026-09-25,44
+PO115,P112,BigBasket,430.0,318.2,26.0,10.61,INR,https://www.bigbasket.com/pd/40099614/whisper-ultra-soft-air-fresh-sanitary-pads-with-wider-longer-back-xl-plus-30-pcs/,2026-09-25,30
+PO116,P113,BigBasket,370.0,229.5,37.97,14.34,INR,https://www.bigbasket.com/pd/40191533/whisper-ultra-overnight-sanitary-pads-with-wings-xxl-plus-16-pcs/,2026-09-25,16
+PO117,P114,BigBasket,375.0,300.0,20.0,15.0,INR,https://www.bigbasket.com/pd/40357970/plush-ultra-thin-sanitary-pads-xl-20-pcs/,2026-09-25,20
+PO118,P115,BigBasket,215.0,193.5,10.0,13.821428571428571,INR,https://www.bigbasket.com/pd/40189683/plush-100-pure-us-cotton-ultra-thin-sanitary-pads-16-pcs/,2026-09-25,14
+PO119,P116,BigBasket,290.0,275.5,5.0,6.89,INR,https://www.bigbasket.com/pd/40137729/stayfree-secure-ultra-thin-xl-sanitary-pads-for-women-40-pcs/,2026-09-25,40
+PO120,P117,BigBasket,240.0,232.8,3.0,6.47,INR,https://www.bigbasket.com/pd/40261119/whisper-choice-sanitary-pads-extra-large-xl-anti-leakage-design-for-women-36-pcs/,2026-09-25,36
+PO121,P118,BigBasket,416.0,366.08,12.0,8.72,INR,https://www.bigbasket.com/pd/40137732/stayfree-dry-max-all-nights-xl-sanitary-pads-for-women-42-pcs-super-saver-pack/,2026-09-25,42
+PO122,P119,BigBasket,,189.0,,15.75,INR,https://www.bigbasket.com/pd/900458061/nua-sanitary-pad-heavy-flow-xl-mini-saver-pack-12-pcs-pouch/,2026-09-25,12
+PO123,P120,BigBasket,299.0,269.1,10.0,26.91,INR,https://www.bigbasket.com/pd/40357967/plush-ultra-thin-sanitary-pads-xxxl-with-disposable-pouches-10-pcs/,2026-09-25,10
+PO124,P121,BigBasket,,40.0,,6.666666666666667,INR,https://www.bigbasket.com/pd/263996/stayfree-sanitary-pads-secure-dry-cover-with-wings-7-pads/,2026-09-25,6
+PO125,P122,BigBasket,269.0,199.0,26.02,39.8,INR,https://www.bigbasket.com/pd/900458064/nua-overnight-period-panties-xl-xxl-size-5-pcs-carton/,2026-09-25,5
+PO126,P123,BigBasket,239.0,229.0,4.18,19.08,INR,https://www.bigbasket.com/pd/40245419/nua-sanitary-pads-xl-wider-back-chemical-toxin-free-ideal-for-heavy-periods-flow-12-pcs/,2026-09-25,12
+PO127,P124,BigBasket,,260.0,,17.33,INR,https://www.bigbasket.com/pd/267651/whisper-sanitary-pads-maxi-nights-xl-wings-extra-heavy-flow-15-pads/,2026-09-25,15
+PO128,P125,BigBasket,225.0,202.5,10.0,13.5,INR,https://www.bigbasket.com/pd/40356456/plush-pure-us-cotton-ultra-thin-sanitary-pads-xl-15-pcs/,2026-09-25,15
+PO129,P126,BigBasket,,115.0,,6.388888888888889,INR,https://www.bigbasket.com/pd/40114358/whisper-sanitary-pads-choice-wings-regular-20-pcs/,2026-09-25,18
+PO130,P127,BigBasket,229.0,159.0,30.57,15.9,INR,https://www.bigbasket.com/pd/40365930/pee-safe-comfort-night-pads-xxxl-10-pcs/,2026-09-25,10
+PO131,P128,BigBasket,129.0,85.0,34.11,4.25,INR,https://www.bigbasket.com/pd/40369221/evereve-sanitary-pads-regular-20-pcs/,2026-09-25,20
+PO132,P129,BigBasket,109.0,103.55,5.0,51.77,INR,https://www.bigbasket.com/pd/40361468/plush-comfort-high-waist-period-panty-lxl-2-pcs/,2026-09-25,2
+PO133,P130,BigBasket,199.0,126.0,36.68,31.5,INR,https://www.bigbasket.com/pd/40356969/pee-safe-disposable-period-panties-xl-xxl-4-pcs/,2026-09-25,4
+PO134,P131,BigBasket,,169.64,,10.6,INR,https://www.bigbasket.com/pd/40001486/stayfree-sanitary-pads-dry-max-ultra-dry-with-wings-16-pads/,2026-09-25,16
+PO135,P132,BigBasket,229.0,159.0,30.57,19.88,INR,https://www.bigbasket.com/pd/40365931/pee-safe-comfort-night-pads-xxxxl-8-pcs/,2026-09-25,8
+PO136,P133,BigBasket,387.0,239.01,38.24,14.94,INR,https://www.bigbasket.com/pd/40369222/evereve-comfort-sanitary-pads-xl-16-pcs/,2026-09-25,16
+PO137,P134,BigBasket,,69.0,,23.0,INR,https://www.bigbasket.com/pd/40372357/nua-all-night-comfort-pads-trail-pack-xxl-3-pcs/,2026-09-25,3
+PO138,P135,BigBasket,,99.0,,49.5,INR,https://www.bigbasket.com/pd/40364926/whisper-super-absorbent-period-panty-2-m-l-pants-360-degree-leakage-protection-for-heavy-flow-2-pcs/,2026-09-25,2
+PO139,P136,BigBasket,420.0,250.01,40.47,6.25,INR,https://www.bigbasket.com/pd/40356857/i-activ-ultra-thin-sanitary-pads-xxl-40-pcs/,2026-09-25,40

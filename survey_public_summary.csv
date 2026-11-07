@@ -1,0 +1,18 @@
+Metric,Category,Count,Sum
+Monthly_Spending,₹201 – ₹400,22,
+Monthly_Spending,₹100 – ₹200,21,
+Monthly_Spending,Under ₹100,13,
+Monthly_Spending,Above ₹400,9,
+Monthly_Spending,Other / Not disclosed,4,
+Primary_Product,Sanitary Pads,67,
+Primary_Product,Other / Not disclosed,2,
+Switched_Due_To_Price,No,38,
+Switched_Due_To_Price,Not sure / Can't remember,17,
+Switched_Due_To_Price,Yes,14,
+Reusable_Willingness,Yes - I am open to trying,26,
+Reusable_Willingness,Maybe - I need more information,24,
+Reusable_Willingness,No - I prefer disposable products,14,
+Reusable_Willingness,Yes - I already use one,5,
+Price_Importance,Average,69,227.0
+Product_Satisfaction,Average,69,258.0
+Responses,Total,69,
