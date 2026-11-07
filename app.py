@@ -4,7 +4,7 @@ import plotly.express as px
 from dash import Dash, Input, Output, dcc, html, dash_table
 
 ROOT = Path(__file__).resolve().parent
-DATA = ROOT / 'data' / 'processed'
+DATA = ROOT
 FILES = {'sales':'sales_data_cleaned.csv','products':'product_data_cleaned.csv','prices':'price_observations_cleaned.csv','survey':'survey_public_summary.csv'}
 
 def read_data():
