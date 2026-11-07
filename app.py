@@ -81,7 +81,13 @@ def survey_fig(metric,title):
     f.update_layout(yaxis={'categoryorder':'total ascending'})
     return chart(f)
 
-app=Dash(__name__,title='PeriodWise | Dash Analytics',suppress_callback_exceptions=True)
+app=Dash(
+    __name__,
+    title='PeriodWise | Dash Analytics',
+    suppress_callback_exceptions=True,
+    assets_folder=str(ROOT),
+    assets_url_path='assets'
+)
 server=app.server
 NAV=[('overview','Overview'),('sales','Sales Analytics'),('products','Product Analytics'),('pricing','Pricing Analytics'),('survey','Survey Analytics')]
 app.layout=html.Div([
